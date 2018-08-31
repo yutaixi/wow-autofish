@@ -1,0 +1,36 @@
+Log file created at: 2016/12/19 22:17:02
+Running on machine: ARTHUR-PC
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E1219 22:17:02.024824 15896 audiorecognize.cpp:90] 异常：声纹提取文件不存在！
+E1219 22:17:02.957993 15896 audiorecognize.cpp:105] getUsrGMM
+E1219 22:17:03.926053 15896 audiorecognize.cpp:105] getUsrGMM
+E1219 22:17:04.866724 15896 audiorecognize.cpp:105] getUsrGMM
+E1219 22:17:05.808388 15896 audiorecognize.cpp:105] getUsrGMM
+E1219 22:17:06.728541 15896 audiorecognize.cpp:105] getUsrGMM
+E1219 22:17:07.666597 15896 audiorecognize.cpp:105] getUsrGMM
+E1219 22:17:08.609764 15896 audiorecognize.cpp:105] getUsrGMM
+E1219 22:17:09.546500 15896 audiorecognize.cpp:105] getUsrGMM
+E1219 22:17:10.472154 15896 audiorecognize.cpp:105] getUsrGMM
+E1219 22:17:11.425830 15896 audiorecognize.cpp:105] getUsrGMM
+E1219 22:17:12.384029 15896 audiorecognize.cpp:105] getUsrGMM
+E1219 22:17:13.331202 15896 audiorecognize.cpp:105] getUsrGMM
+E1219 22:17:14.264845 15896 audiorecognize.cpp:105] getUsrGMM
+E1219 22:17:15.220962 15896 audiorecognize.cpp:105] getUsrGMM
+E1219 22:17:16.138134 15896 audiorecognize.cpp:105] getUsrGMM
+E1219 22:17:17.112963 15896 audiorecognize.cpp:105] getUsrGMM
+E1219 22:17:18.078147 15896 audiorecognize.cpp:105] getUsrGMM
+E1219 22:17:19.024816 15896 audiorecognize.cpp:105] getUsrGMM
+E1219 22:17:19.988888 15896 audiorecognize.cpp:105] getUsrGMM
+E1219 22:17:20.980589 15896 audiorecognize.cpp:105] getUsrGMM
+E1219 22:17:21.927050 15896 audiorecognize.cpp:105] getUsrGMM
+E1219 22:17:22.855211 15896 audiorecognize.cpp:105] getUsrGMM
+E1219 22:17:23.783548 15896 audiorecognize.cpp:105] getUsrGMM
+E1219 22:17:24.712707 15896 audiorecognize.cpp:105] getUsrGMM
+E1219 22:17:25.656877 15896 audiorecognize.cpp:105] getUsrGMM
+E1219 22:17:26.601047 15896 audiorecognize.cpp:105] getUsrGMM
+E1219 22:17:27.578246 15896 audiorecognize.cpp:105] getUsrGMM
+E1219 22:17:28.516410 15896 audiorecognize.cpp:105] getUsrGMM
+E1219 22:17:29.457236 15896 audiorecognize.cpp:105] getUsrGMM
+E1219 22:17:30.378221 15896 audiorecognize.cpp:105] getUsrGMM
+E1219 22:17:31.308878 15896 audiorecognize.cpp:105] getUsrGMM
+E1219 22:17:32.235035 15896 audiorecognize.cpp:105] getUsrGMM

@@ -1,0 +1,29 @@
+Log file created at: 2016/12/19 22:15:39
+Running on machine: ARTHUR-PC
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E1219 22:15:39.130904 16508 audiorecognize.cpp:90] 异常：声纹提取文件不存在！
+E1219 22:15:40.046983 16508 audiorecognize.cpp:105] getUsrGMM
+E1219 22:15:40.973662 16508 audiorecognize.cpp:105] getUsrGMM
+E1219 22:15:41.896317 16508 audiorecognize.cpp:105] getUsrGMM
+E1219 22:15:42.807600 16508 audiorecognize.cpp:105] getUsrGMM
+E1219 22:15:43.732756 16508 audiorecognize.cpp:105] getUsrGMM
+E1219 22:15:44.653409 16508 audiorecognize.cpp:105] getUsrGMM
+E1219 22:15:45.580070 16508 audiorecognize.cpp:105] getUsrGMM
+E1219 22:15:46.497215 16508 audiorecognize.cpp:105] getUsrGMM
+E1219 22:15:47.418196 16508 audiorecognize.cpp:105] getUsrGMM
+E1219 22:15:48.343742 16508 audiorecognize.cpp:105] getUsrGMM
+E1219 22:15:49.270957 16508 audiorecognize.cpp:105] getUsrGMM
+E1219 22:15:50.201418 16508 audiorecognize.cpp:105] getUsrGMM
+E1219 22:15:51.129099 16508 audiorecognize.cpp:105] getUsrGMM
+E1219 22:15:52.065773 16508 audiorecognize.cpp:105] getUsrGMM
+E1219 22:15:53.014945 16508 audiorecognize.cpp:105] getUsrGMM
+E1219 22:15:53.939601 16508 audiorecognize.cpp:105] getUsrGMM
+E1219 22:15:54.861690 16508 audiorecognize.cpp:105] getUsrGMM
+E1219 22:15:55.813583 16508 audiorecognize.cpp:105] getUsrGMM
+E1219 22:15:56.756749 16508 audiorecognize.cpp:105] getUsrGMM
+E1219 22:15:57.677889 16508 audiorecognize.cpp:105] getUsrGMM
+E1219 22:15:58.639078 16508 audiorecognize.cpp:105] getUsrGMM
+E1219 22:15:59.558048 16508 audiorecognize.cpp:105] getUsrGMM
+E1219 22:16:00.495926 16508 audiorecognize.cpp:105] getUsrGMM
+E1219 22:16:01.421545 16508 audiorecognize.cpp:105] getUsrGMM
+E1219 22:16:02.339412 16508 audiorecognize.cpp:105] getUsrGMM

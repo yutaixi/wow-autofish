@@ -1,0 +1,69 @@
+Log file created at: 2016/12/22 09:38:01
+Running on machine: ARTHUR-PC
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E1222 09:38:01.132639 22076 audiorecognize.cpp:90] 异常：声纹提取文件不存在！
+E1222 09:38:02.796023 22076 audiorecognize.cpp:105] getUsrGMM
+E1222 09:38:02.796023 22076 audiorecognize.cpp:135] 建模失败！
+E1222 09:38:03.690609 22076 audiorecognize.cpp:105] getUsrGMM
+E1222 09:38:03.691109 22076 audiorecognize.cpp:135] 建模失败！
+E1222 09:38:12.490262 12520 playbackaudiocapture.cpp:641]  异常：CPlaybackCaptureImpl::Initialize GetDefaultDevice == NULL
+E1222 09:38:12.494750 12520 playbackaudiocapture.cpp:664]  异常：CPlaybackCaptureImpl::Initialize 初始化失败 Destroy
+E1222 09:38:12.498754 22076 audiorecognize.cpp:90] 异常：声纹提取文件不存在！
+E1222 09:38:18.524811  5928 playbackaudiocapture.cpp:641]  异常：CPlaybackCaptureImpl::Initialize GetDefaultDevice == NULL
+E1222 09:38:18.524811  5928 playbackaudiocapture.cpp:664]  异常：CPlaybackCaptureImpl::Initialize 初始化失败 Destroy
+E1222 09:38:18.526311 22076 audiorecognize.cpp:90] 异常：声纹提取文件不存在！
+E1222 09:38:24.548588 19856 playbackaudiocapture.cpp:641]  异常：CPlaybackCaptureImpl::Initialize GetDefaultDevice == NULL
+E1222 09:38:24.548588 19856 playbackaudiocapture.cpp:664]  异常：CPlaybackCaptureImpl::Initialize 初始化失败 Destroy
+E1222 09:38:24.550088 22076 audiorecognize.cpp:90] 异常：声纹提取文件不存在！
+E1222 09:38:25.530544 12520 playbackaudiocapture.cpp:641]  异常：CPlaybackCaptureImpl::Initialize GetDefaultDevice == NULL
+E1222 09:38:25.530544 12520 playbackaudiocapture.cpp:664]  异常：CPlaybackCaptureImpl::Initialize 初始化失败 Destroy
+E1222 09:38:25.532546 22076 audiorecognize.cpp:90] 异常：声纹提取文件不存在！
+E1222 09:38:26.442209 22076 audiorecognize.cpp:105] getUsrGMM
+E1222 09:38:26.442209 22076 audiorecognize.cpp:135] 建模失败！
+E1222 09:38:27.334841 22076 audiorecognize.cpp:105] getUsrGMM
+E1222 09:38:27.336843 22076 audiorecognize.cpp:135] 建模失败！
+E1222 09:38:30.581666 16512 playbackaudiocapture.cpp:641]  异常：CPlaybackCaptureImpl::Initialize GetDefaultDevice == NULL
+E1222 09:38:30.581666 16512 playbackaudiocapture.cpp:664]  异常：CPlaybackCaptureImpl::Initialize 初始化失败 Destroy
+E1222 09:38:30.583668 22076 audiorecognize.cpp:90] 异常：声纹提取文件不存在！
+E1222 09:38:31.565160 22260 playbackaudiocapture.cpp:641]  异常：CPlaybackCaptureImpl::Initialize GetDefaultDevice == NULL
+E1222 09:38:31.566661 22260 playbackaudiocapture.cpp:664]  异常：CPlaybackCaptureImpl::Initialize 初始化失败 Destroy
+E1222 09:38:31.578169 22076 audiorecognize.cpp:90] 异常：声纹提取文件不存在！
+E1222 09:38:31.588675 22076 audiorecognize.cpp:90] 异常：声纹提取文件不存在！
+E1222 09:38:35.600098 22056 playbackaudiocapture.cpp:641]  异常：CPlaybackCaptureImpl::Initialize GetDefaultDevice == NULL
+E1222 09:38:35.600600 22056 playbackaudiocapture.cpp:664]  异常：CPlaybackCaptureImpl::Initialize 初始化失败 Destroy
+E1222 09:38:35.610105 22076 audiorecognize.cpp:90] 异常：声纹提取文件不存在！
+E1222 09:38:35.622615 22076 audiorecognize.cpp:90] 异常：声纹提取文件不存在！
+E1222 09:38:37.315485 22076 audiorecognize.cpp:105] getUsrGMM
+E1222 09:38:37.315485 22076 audiorecognize.cpp:135] 建模失败！
+E1222 09:38:38.282685 22076 audiorecognize.cpp:105] getUsrGMM
+E1222 09:38:38.282685 22076 audiorecognize.cpp:135] 建模失败！
+E1222 09:38:41.636483 19240 playbackaudiocapture.cpp:641]  异常：CPlaybackCaptureImpl::Initialize GetDefaultDevice == NULL
+E1222 09:38:41.637485 19240 playbackaudiocapture.cpp:664]  异常：CPlaybackCaptureImpl::Initialize 初始化失败 Destroy
+E1222 09:38:41.640985 22076 audiorecognize.cpp:90] 异常：声纹提取文件不存在！
+E1222 09:38:41.657999 22076 audiorecognize.cpp:105] getUsrGMM
+E1222 09:38:41.658499 22076 audiorecognize.cpp:135] 建模失败！
+E1222 09:38:43.513285 22076 audiorecognize.cpp:105] getUsrGMM
+E1222 09:38:43.513787 22076 audiorecognize.cpp:135] 建模失败！
+E1222 09:38:44.617259 22260 playbackaudiocapture.cpp:641]  异常：CPlaybackCaptureImpl::Initialize GetDefaultDevice == NULL
+E1222 09:38:44.617259 22260 playbackaudiocapture.cpp:664]  异常：CPlaybackCaptureImpl::Initialize 初始化失败 Destroy
+E1222 09:38:44.620761 22076 audiorecognize.cpp:90] 异常：声纹提取文件不存在！
+E1222 09:38:44.628767 22076 audiorecognize.cpp:90] 异常：声纹提取文件不存在！
+E1222 09:38:47.673849 10784 playbackaudiocapture.cpp:641]  异常：CPlaybackCaptureImpl::Initialize GetDefaultDevice == NULL
+E1222 09:38:47.674351 10784 playbackaudiocapture.cpp:664]  异常：CPlaybackCaptureImpl::Initialize 初始化失败 Destroy
+E1222 09:38:47.677353 22076 audiorecognize.cpp:90] 异常：声纹提取文件不存在！
+E1222 09:38:48.654918 20672 playbackaudiocapture.cpp:641]  异常：CPlaybackCaptureImpl::Initialize GetDefaultDevice == NULL
+E1222 09:38:48.655418 20672 playbackaudiocapture.cpp:664]  异常：CPlaybackCaptureImpl::Initialize 初始化失败 Destroy
+E1222 09:38:48.661424 22076 audiorecognize.cpp:90] 异常：声纹提取文件不存在！
+E1222 09:38:48.662924  5128 playbackaudiocapture.cpp:641]  异常：CPlaybackCaptureImpl::Initialize GetDefaultDevice == NULL
+E1222 09:38:48.662924  5128 playbackaudiocapture.cpp:664]  异常：CPlaybackCaptureImpl::Initialize 初始化失败 Destroy
+E1222 09:38:48.678434 22056 playbackaudiocapture.cpp:619]  异常：CPlaybackCaptureImpl::Initialize m_bInited ==true
+E1222 09:38:48.678434 13792 playbackaudiocapture.cpp:619]  异常：CPlaybackCaptureImpl::Initialize m_bInited ==true
+E1222 09:38:48.678434 22076 audiorecognize.cpp:90] 异常：声纹提取文件不存在！
+E1222 09:38:48.681937 22076 playbackaudiocapture.cpp:619]  异常：CPlaybackCaptureImpl::Initialize m_bInited ==true
+E1222 09:38:48.686941 22076 audiorecognize.cpp:90] 异常：声纹提取文件不存在！
+E1222 09:38:48.687441 22076 playbackaudiocapture.cpp:619]  异常：CPlaybackCaptureImpl::Initialize m_bInited ==true
+E1222 09:38:48.690945 22076 audiorecognize.cpp:90] 异常：声纹提取文件不存在！
+E1222 09:38:48.690945 22076 playbackaudiocapture.cpp:619]  异常：CPlaybackCaptureImpl::Initialize m_bInited ==true
+E1222 09:38:51.617525 12520 playbackaudiocapture.cpp:619]  异常：CPlaybackCaptureImpl::Initialize m_bInited ==true
+E1222 09:38:51.623528 22076 audiorecognize.cpp:90] 异常：声纹提取文件不存在！
+E1222 09:38:51.623528 22076 playbackaudiocapture.cpp:619]  异常：CPlaybackCaptureImpl::Initialize m_bInited ==true

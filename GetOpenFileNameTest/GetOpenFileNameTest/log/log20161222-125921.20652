@@ -1,0 +1,32 @@
+Log file created at: 2016/12/22 12:59:21
+Running on machine: ARTHUR-PC
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E1222 12:59:21.417413 18912 audiorecognize.cpp:93] 异常：声纹提取文件不存在！
+E1222 12:59:25.571512 18912 audiorecognize.cpp:108] getUsrGMM
+E1222 12:59:25.571512 18912 audiorecognize.cpp:138] 建模失败！
+E1222 12:59:28.791084 18912 audiorecognize.cpp:108] getUsrGMM
+E1222 12:59:28.791584 18912 audiorecognize.cpp:138] 建模失败！
+E1222 12:59:33.278053 18912 audiorecognize.cpp:108] getUsrGMM
+E1222 12:59:33.282554 18912 audiorecognize.cpp:138] 建模失败！
+E1222 12:59:34.187921 18912 audiorecognize.cpp:108] getUsrGMM
+E1222 12:59:37.076293 18912 audiorecognize.cpp:108] getUsrGMM
+E1222 12:59:37.076293 18912 audiorecognize.cpp:138] 建模失败！
+E1222 12:59:38.163421 18912 audiorecognize.cpp:108] getUsrGMM
+E1222 12:59:38.163921 18912 audiorecognize.cpp:138] 建模失败！
+E1222 12:59:39.044409 18912 audiorecognize.cpp:108] getUsrGMM
+E1222 12:59:39.044910 18912 audiorecognize.cpp:138] 建模失败！
+E1222 12:59:39.919656 18912 audiorecognize.cpp:108] getUsrGMM
+E1222 12:59:39.919656 18912 audiorecognize.cpp:138] 建模失败！
+E1222 12:59:42.103278 18912 audiorecognize.cpp:108] getUsrGMM
+E1222 12:59:42.103766 18912 audiorecognize.cpp:138] 建模失败！
+E1222 12:59:43.603915 18912 audiorecognize.cpp:108] getUsrGMM
+E1222 12:59:43.604416 18912 audiorecognize.cpp:138] 建模失败！
+E1222 12:59:44.491442 18912 audiorecognize.cpp:108] getUsrGMM
+E1222 12:59:44.491943 18912 audiorecognize.cpp:138] 建模失败！
+E1222 12:59:47.729507 18912 audiorecognize.cpp:108] getUsrGMM
+E1222 12:59:47.730002 18912 audiorecognize.cpp:138] 建模失败！
+E1222 12:59:48.623566 18912 audiorecognize.cpp:108] getUsrGMM
+E1222 12:59:48.623566 18912 audiorecognize.cpp:138] 建模失败！
+E1222 12:59:49.533298 18912 audiorecognize.cpp:108] getUsrGMM
+E1222 12:59:49.533298 18912 audiorecognize.cpp:138] 建模失败！
+E1222 13:00:26.408213 18912 audiorecognize.cpp:93] 异常：声纹提取文件不存在！

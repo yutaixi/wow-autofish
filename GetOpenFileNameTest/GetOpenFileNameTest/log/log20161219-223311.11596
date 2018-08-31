@@ -1,0 +1,362 @@
+Log file created at: 2016/12/19 22:33:11
+Running on machine: ARTHUR-PC
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E1219 22:33:11.637105 22636 audiorecognize.cpp:90] 异常：声纹提取文件不存在！
+E1219 22:33:14.742329 14056 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:33:15.808084 22636 audiorecognize.cpp:105] getUsrGMM
+E1219 22:33:15.808084 22636 audiorecognize.cpp:135] 建模失败！
+E1219 22:33:16.347967 14056 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:33:17.950103 14056 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:33:19.533377 14056 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:33:21.143730 14056 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:33:21.967819 22636 audiorecognize.cpp:105] getUsrGMM
+E1219 22:33:21.967819 22636 audiorecognize.cpp:135] 建模失败！
+E1219 22:33:22.725857 14056 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:33:24.322759 14056 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:33:25.918229 14056 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:33:27.516297 14056 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:33:28.042034 22636 audiorecognize.cpp:105] getUsrGMM
+E1219 22:33:28.042034 22636 audiorecognize.cpp:135] 建模失败！
+E1219 22:33:28.922271 22636 audiorecognize.cpp:105] getUsrGMM
+E1219 22:33:28.922271 22636 audiorecognize.cpp:135] 建模失败！
+E1219 22:33:29.111404 14056 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:33:30.708006 14056 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:33:31.678354 22636 audiorecognize.cpp:105] getUsrGMM
+E1219 22:33:31.678855 22636 audiorecognize.cpp:135] 建模失败！
+E1219 22:33:32.296058 14056 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:33:32.564755 22636 audiorecognize.cpp:105] getUsrGMM
+E1219 22:33:32.564755 22636 audiorecognize.cpp:135] 建模失败！
+E1219 22:33:33.877424 14056 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:33:34.661996 22636 audiorecognize.cpp:105] getUsrGMM
+E1219 22:33:34.662487 22636 audiorecognize.cpp:135] 建模失败！
+E1219 22:33:35.468000 14056 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:33:36.122440 22636 audiorecognize.cpp:105] getUsrGMM
+E1219 22:33:36.122440 22636 audiorecognize.cpp:135] 建模失败！
+E1219 22:33:37.007650 22636 audiorecognize.cpp:105] getUsrGMM
+E1219 22:33:37.009155 22636 audiorecognize.cpp:135] 建模失败！
+E1219 22:33:37.065191 14056 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:33:38.644412 14056 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:33:40.223912 14056 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:33:40.862148 22636 audiorecognize.cpp:105] getUsrGMM
+E1219 22:33:40.862661 22636 audiorecognize.cpp:135] 建模失败！
+E1219 22:33:41.749145 22636 audiorecognize.cpp:105] getUsrGMM
+E1219 22:33:41.750648 22636 audiorecognize.cpp:135] 建模失败！
+E1219 22:33:41.811689 14056 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:33:42.643257 22636 audiorecognize.cpp:105] getUsrGMM
+E1219 22:33:42.643257 22636 audiorecognize.cpp:135] 建模失败！
+E1219 22:33:43.396332 14056 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:33:44.978526 14056 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:33:46.567482 14056 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:33:47.668577 22636 audiorecognize.cpp:105] getUsrGMM
+E1219 22:33:47.669077 22636 audiorecognize.cpp:135] 建模失败！
+E1219 22:33:48.171756 14056 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:33:49.770018 14056 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:33:51.363932 14056 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:33:52.954711 14056 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:33:53.740499 22636 audiorecognize.cpp:105] getUsrGMM
+E1219 22:33:53.740499 22636 audiorecognize.cpp:135] 建模失败！
+E1219 22:33:54.548916 14056 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:33:56.150321 14056 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:33:57.749408 14056 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:33:59.356490 14056 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:33:59.820382 22636 audiorecognize.cpp:105] getUsrGMM
+E1219 22:33:59.820883 22636 audiorecognize.cpp:135] 建模失败！
+E1219 22:34:00.698668 22636 audiorecognize.cpp:105] getUsrGMM
+E1219 22:34:00.698668 22636 audiorecognize.cpp:135] 建模失败！
+E1219 22:34:00.947897 14056 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:34:02.554450 14056 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:34:04.154609 14056 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:34:05.751200 14056 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:34:06.831610 22636 audiorecognize.cpp:105] getUsrGMM
+E1219 22:34:06.831610 22636 audiorecognize.cpp:135] 建模失败！
+E1219 22:34:07.348111 14056 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:34:08.946808 14056 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:34:10.551007 14056 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:34:12.155787 14056 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:34:12.942345 22636 audiorecognize.cpp:105] getUsrGMM
+E1219 22:34:12.942345 22636 audiorecognize.cpp:135] 建模失败！
+E1219 22:34:13.746183 14056 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:34:15.350133 14056 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:34:16.944669 14056 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:34:18.610550 22636 audiorecognize.cpp:105] getUsrGMM
+E1219 22:34:18.610550 22636 audiorecognize.cpp:135] 建模失败！
+E1219 22:34:18.619541 14056 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:34:19.492645 22636 audiorecognize.cpp:105] getUsrGMM
+E1219 22:34:19.492645 22636 audiorecognize.cpp:135] 建模失败！
+E1219 22:34:20.218255 14056 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:34:21.813856 14056 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:34:23.413810 14056 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:34:25.011582 14056 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:34:25.590354 22636 audiorecognize.cpp:105] getUsrGMM
+E1219 22:34:25.590354 22636 audiorecognize.cpp:135] 建模失败！
+E1219 22:34:26.475788 22636 audiorecognize.cpp:105] getUsrGMM
+E1219 22:34:26.475788 22636 audiorecognize.cpp:135] 建模失败！
+E1219 22:34:26.617271 14056 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:34:28.212477 14056 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:34:29.051108 22636 audiorecognize.cpp:105] getUsrGMM
+E1219 22:34:29.051609 22636 audiorecognize.cpp:135] 建模失败！
+E1219 22:34:29.818503 14056 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:34:29.926580 22636 audiorecognize.cpp:105] getUsrGMM
+E1219 22:34:29.927080 22636 audiorecognize.cpp:135] 建模失败！
+E1219 22:34:30.881441 22636 audiorecognize.cpp:105] getUsrGMM
+E1219 22:34:30.881441 22636 audiorecognize.cpp:135] 建模失败！
+E1219 22:34:31.412291 14056 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:34:31.887609 22636 audiorecognize.cpp:105] getUsrGMM
+E1219 22:34:31.888608 22636 audiorecognize.cpp:135] 建模失败！
+E1219 22:34:32.773672 22636 audiorecognize.cpp:105] getUsrGMM
+E1219 22:34:32.774170 22636 audiorecognize.cpp:135] 建模失败！
+E1219 22:34:33.022347 14056 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:34:33.865725 22636 audiorecognize.cpp:105] getUsrGMM
+E1219 22:34:33.866204 22636 audiorecognize.cpp:135] 建模失败！
+E1219 22:34:34.612164 14056 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:34:34.962327 22636 audiorecognize.cpp:105] getUsrGMM
+E1219 22:34:34.962824 22636 audiorecognize.cpp:135] 建模失败！
+E1219 22:34:36.168314 22636 audiorecognize.cpp:105] getUsrGMM
+E1219 22:34:36.169816 22636 audiorecognize.cpp:135] 建模失败！
+E1219 22:34:36.218849 14056 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:34:37.807788 14056 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:34:38.904258 22636 audiorecognize.cpp:105] getUsrGMM
+E1219 22:34:38.904258 22636 audiorecognize.cpp:135] 建模失败！
+E1219 22:34:39.416131 14056 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:34:41.007283 14056 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:34:42.599490 14056 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:34:44.194653 14056 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:34:44.997155 22636 audiorecognize.cpp:105] getUsrGMM
+E1219 22:34:44.997656 22636 audiorecognize.cpp:135] 建模失败！
+E1219 22:34:45.802616 14056 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:34:47.393932 14056 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:34:48.994758 14056 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:34:50.597497 14056 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:34:51.117934 22636 audiorecognize.cpp:105] getUsrGMM
+E1219 22:34:51.117934 22636 audiorecognize.cpp:135] 建模失败！
+E1219 22:34:52.000864 22636 audiorecognize.cpp:105] getUsrGMM
+E1219 22:34:52.001365 22636 audiorecognize.cpp:135] 建模失败！
+E1219 22:34:52.193531 14056 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:34:53.802325 14056 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:34:55.402227 14056 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:34:57.001184 14056 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:34:58.080343 22636 audiorecognize.cpp:105] getUsrGMM
+E1219 22:34:58.080343 22636 audiorecognize.cpp:135] 建模失败！
+E1219 22:34:58.594492 14056 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:35:00.193920 14056 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:35:01.797436 14056 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:35:03.392874 14056 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:35:04.168656 22636 audiorecognize.cpp:105] getUsrGMM
+E1219 22:35:04.169155 22636 audiorecognize.cpp:135] 建模失败！
+E1219 22:35:04.990979 14056 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:35:06.602279 14056 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:35:08.191951 14056 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:35:09.791185 14056 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:35:10.285912 22636 audiorecognize.cpp:105] getUsrGMM
+E1219 22:35:10.286412 22636 audiorecognize.cpp:135] 建模失败！
+E1219 22:35:11.172040 22636 audiorecognize.cpp:105] getUsrGMM
+E1219 22:35:11.172040 22636 audiorecognize.cpp:135] 建模失败！
+E1219 22:35:11.392657 14056 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:35:12.996621 14056 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:35:14.592139 14056 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:35:16.201447 14056 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:35:17.279930 22636 audiorecognize.cpp:105] getUsrGMM
+E1219 22:35:17.280432 22636 audiorecognize.cpp:135] 建模失败！
+E1219 22:35:17.793037 14056 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:35:19.397454 14056 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:35:20.989840 14056 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:35:22.597575 14056 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:35:23.323079 22636 audiorecognize.cpp:105] getUsrGMM
+E1219 22:35:23.323079 22636 audiorecognize.cpp:135] 建模失败！
+E1219 22:35:24.191380 14056 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:35:24.782471 22636 audiorecognize.cpp:105] getUsrGMM
+E1219 22:35:24.782471 22636 audiorecognize.cpp:135] 建模失败！
+E1219 22:35:25.790925 14056 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:35:27.385007 14056 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:36:06.668138 22636 audiorecognize.cpp:90] 异常：声纹提取文件不存在！
+E1219 22:36:08.766929 13724 playbackaudiocapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 22:36:08.776437 13724 playbackaudiocapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 22:36:08.786947 13724 playbackaudiocapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 22:36:08.796490 13724 playbackaudiocapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 22:36:08.806957 13724 playbackaudiocapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 22:36:08.816515 13724 playbackaudiocapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 22:36:08.826472 13724 playbackaudiocapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 22:36:08.836169 13724 playbackaudiocapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 22:36:08.846177 13724 playbackaudiocapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 22:36:08.856183 13724 playbackaudiocapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 22:36:08.866245 13724 playbackaudiocapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 22:36:08.876195 13724 playbackaudiocapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 22:36:08.886203 13724 playbackaudiocapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 22:36:08.896210 13724 playbackaudiocapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 22:36:08.906728 13724 playbackaudiocapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 22:36:08.916224 13724 playbackaudiocapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 22:36:08.926234 13724 playbackaudiocapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 22:36:08.936239 13724 playbackaudiocapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 22:36:08.946301 13724 playbackaudiocapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 22:36:08.956254 13724 playbackaudiocapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 22:36:08.966289 13724 playbackaudiocapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 22:36:08.976289 13724 playbackaudiocapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 22:36:08.986280 13724 playbackaudiocapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 22:36:08.997058 13724 playbackaudiocapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 22:36:09.007066 13724 playbackaudiocapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 22:36:09.017072 13724 playbackaudiocapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 22:36:09.027079 13724 playbackaudiocapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 22:36:09.036587 13724 playbackaudiocapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 22:36:09.046594 13724 playbackaudiocapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 22:36:09.056601 13724 playbackaudiocapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 22:36:09.066609 13724 playbackaudiocapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 22:36:09.076617 13724 playbackaudiocapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 22:36:09.086622 13724 playbackaudiocapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 22:36:09.096631 13724 playbackaudiocapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 22:36:09.107136 13724 playbackaudiocapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 22:36:09.116142 13724 playbackaudiocapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 22:36:09.126157 13724 playbackaudiocapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 22:36:09.136657 13724 playbackaudiocapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 22:36:09.146183 13724 playbackaudiocapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 22:36:09.156673 13724 playbackaudiocapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 22:36:09.166177 13724 playbackaudiocapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 22:36:09.176686 13724 playbackaudiocapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 22:36:09.186194 13724 playbackaudiocapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 22:36:09.196699 13724 playbackaudiocapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 22:36:09.206223 13724 playbackaudiocapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 22:36:09.216716 13724 playbackaudiocapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 22:36:09.226721 13724 playbackaudiocapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 22:36:09.236728 13724 playbackaudiocapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 22:36:09.246235 13724 playbackaudiocapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 22:36:09.256744 13724 playbackaudiocapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 22:36:09.266749 13724 playbackaudiocapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 22:36:09.276257 13724 playbackaudiocapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 22:36:09.286263 13724 playbackaudiocapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 22:36:09.296270 13724 playbackaudiocapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 22:36:09.306481 13724 playbackaudiocapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 22:36:09.316488 13724 playbackaudiocapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 22:36:09.326494 13724 playbackaudiocapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 22:36:09.336503 13724 playbackaudiocapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 22:36:09.346508 13724 playbackaudiocapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 22:36:09.356515 13724 playbackaudiocapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 22:36:09.367027 13724 playbackaudiocapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 22:36:09.377001 13724 playbackaudiocapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 22:36:09.388510 13724 playbackaudiocapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 22:36:09.396515 13724 playbackaudiocapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 22:36:09.407022 13724 playbackaudiocapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 22:36:09.417532 13724 playbackaudiocapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 22:36:09.427039 13724 playbackaudiocapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 22:36:09.437047 13724 playbackaudiocapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 22:36:09.447109 13724 playbackaudiocapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 22:36:09.456562 13724 playbackaudiocapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 22:36:09.467067 13724 playbackaudiocapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 22:36:09.476574 13724 playbackaudiocapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 22:36:09.486582 13724 playbackaudiocapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 22:36:09.496597 13724 playbackaudiocapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 22:36:09.506597 13724 playbackaudiocapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 22:36:09.517104 13724 playbackaudiocapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 22:36:09.526609 13724 playbackaudiocapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 22:36:09.536619 13724 playbackaudiocapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 22:36:09.547143 13724 playbackaudiocapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 22:36:09.557132 13724 playbackaudiocapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 22:36:09.637188 22636 audiorecognize.cpp:105] getUsrGMM
+E1219 22:36:09.637188 22636 audiorecognize.cpp:135] 建模失败！
+E1219 22:36:09.643193 22636 audiorecognize.cpp:90] 异常：声纹提取文件不存在！
+E1219 22:36:09.768781 25460 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:36:10.516263 22636 audiorecognize.cpp:105] getUsrGMM
+E1219 22:36:10.516762 22636 audiorecognize.cpp:135] 建模失败！
+E1219 22:36:11.360617 25460 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:36:12.944317 25460 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:36:13.269273 22636 audiorecognize.cpp:105] getUsrGMM
+E1219 22:36:13.269773 22636 audiorecognize.cpp:135] 建模失败！
+E1219 22:36:14.149883 22636 audiorecognize.cpp:105] getUsrGMM
+E1219 22:36:14.149883 22636 audiorecognize.cpp:135] 建模失败！
+E1219 22:36:14.533633 25460 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:36:15.028327 22636 audiorecognize.cpp:105] getUsrGMM
+E1219 22:36:15.028327 22636 audiorecognize.cpp:135] 建模失败！
+E1219 22:36:16.124364 25460 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:36:17.707226 25460 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:36:19.298030 25460 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:36:20.079794 22636 audiorecognize.cpp:105] getUsrGMM
+E1219 22:36:20.079794 22636 audiorecognize.cpp:135] 建模失败！
+E1219 22:36:20.881665 25460 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:36:22.474174 25460 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:36:24.069658 25460 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:36:25.676570 25460 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:36:27.267488 25460 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:36:28.874415 25460 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:36:29.341081 22636 audiorecognize.cpp:105] getUsrGMM
+E1219 22:36:29.341585 22636 audiorecognize.cpp:135] 建模失败！
+E1219 22:36:30.221218 22636 audiorecognize.cpp:105] getUsrGMM
+E1219 22:36:30.221716 22636 audiorecognize.cpp:135] 建模失败！
+E1219 22:36:30.472277 25460 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:36:32.069284 25460 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:36:33.672099 25460 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:36:35.268034 25460 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:36:35.847983 22636 audiorecognize.cpp:105] getUsrGMM
+E1219 22:36:37.868185 25460 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:36:38.744981 22636 audiorecognize.cpp:105] getUsrGMM
+E1219 22:36:38.744981 22636 audiorecognize.cpp:135] 建模失败！
+E1219 22:36:43.193276 22636 audiorecognize.cpp:90] 异常：声纹提取文件不存在！
+E1219 22:36:44.637190 22636 audiorecognize.cpp:105] getUsrGMM
+E1219 22:36:46.666545 24288 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:36:48.258646 24288 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:36:48.411767 22636 audiorecognize.cpp:105] getUsrGMM
+E1219 22:36:48.412255 22636 audiorecognize.cpp:135] 建模失败！
+E1219 22:36:49.843890 24288 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:36:50.339764 22636 audiorecognize.cpp:105] getUsrGMM
+E1219 22:36:50.339764 22636 audiorecognize.cpp:135] 建模失败！
+E1219 22:36:51.219648 22636 audiorecognize.cpp:105] getUsrGMM
+E1219 22:36:51.220150 22636 audiorecognize.cpp:135] 建模失败！
+E1219 22:36:51.422811 24288 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:36:52.104434 22636 audiorecognize.cpp:105] getUsrGMM
+E1219 22:36:52.104434 22636 audiorecognize.cpp:135] 建模失败！
+E1219 22:36:53.009071 24288 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:36:54.599578 24288 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:36:56.205059 24288 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:36:57.797827 24288 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:36:59.396275 24288 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:37:00.108546 22636 audiorecognize.cpp:105] getUsrGMM
+E1219 22:37:00.108546 22636 audiorecognize.cpp:135] 建模失败！
+E1219 22:37:01.002333 22636 audiorecognize.cpp:105] getUsrGMM
+E1219 22:37:01.002833 22636 audiorecognize.cpp:135] 建模失败！
+E1219 22:37:01.010838 24288 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:37:01.883530 22636 audiorecognize.cpp:105] getUsrGMM
+E1219 22:37:01.884029 22636 audiorecognize.cpp:135] 建模失败！
+E1219 22:37:02.601522 24288 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:37:02.777146 22636 audiorecognize.cpp:105] getUsrGMM
+E1219 22:37:02.777647 22636 audiorecognize.cpp:135] 建模失败！
+E1219 22:37:03.799799 22636 audiorecognize.cpp:105] getUsrGMM
+E1219 22:37:03.800300 22636 audiorecognize.cpp:135] 建模失败！
+E1219 22:37:04.205273 24288 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:37:04.821851 22636 audiorecognize.cpp:105] getUsrGMM
+E1219 22:37:04.821851 22636 audiorecognize.cpp:135] 建模失败！
+E1219 22:37:05.869825 22636 audiorecognize.cpp:105] getUsrGMM
+E1219 22:37:05.869825 22636 audiorecognize.cpp:135] 建模失败！
+E1219 22:37:05.870827 22636 playbackaudiocapture.cpp:619]  异常：CPlaybackCaptureImpl::Initialize m_bInited ==true
+E1219 22:37:27.613294 17516 playbackaudiocapture.cpp:455] 异常：录音异常，即将重新录音
+E1219 22:37:27.615794 24288 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:37:29.196806 24288 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:37:30.783268 24288 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:37:30.819295 20828 hdcmap.cpp:77] 异常：getCurrentCursorBitmap GetIconInfo iconinfo.hbmColor = NULL
+E1219 22:37:30.870331 20828 hdcmap.cpp:77] 异常：getCurrentCursorBitmap GetIconInfo iconinfo.hbmColor = NULL
+E1219 22:37:30.921366 20828 hdcmap.cpp:77] 异常：getCurrentCursorBitmap GetIconInfo iconinfo.hbmColor = NULL
+E1219 22:37:30.971443 20828 hdcmap.cpp:77] 异常：getCurrentCursorBitmap GetIconInfo iconinfo.hbmColor = NULL
+E1219 22:37:31.022977 20828 hdcmap.cpp:77] 异常：getCurrentCursorBitmap GetIconInfo iconinfo.hbmColor = NULL
+E1219 22:37:31.073513 20828 hdcmap.cpp:77] 异常：getCurrentCursorBitmap GetIconInfo iconinfo.hbmColor = NULL
+E1219 22:37:31.124049 20828 hdcmap.cpp:77] 异常：getCurrentCursorBitmap GetIconInfo iconinfo.hbmColor = NULL
+E1219 22:37:31.175585 20828 hdcmap.cpp:77] 异常：getCurrentCursorBitmap GetIconInfo iconinfo.hbmColor = NULL
+E1219 22:37:31.225996 20828 hdcmap.cpp:77] 异常：getCurrentCursorBitmap GetIconInfo iconinfo.hbmColor = NULL
+E1219 22:37:31.277035 20828 hdcmap.cpp:77] 异常：getCurrentCursorBitmap GetIconInfo iconinfo.hbmColor = NULL
+E1219 22:37:31.327906 20828 hdcmap.cpp:77] 异常：getCurrentCursorBitmap GetIconInfo iconinfo.hbmColor = NULL
+E1219 22:37:31.378901 20828 hdcmap.cpp:77] 异常：getCurrentCursorBitmap GetIconInfo iconinfo.hbmColor = NULL
+E1219 22:37:31.428977 20828 hdcmap.cpp:77] 异常：getCurrentCursorBitmap GetIconInfo iconinfo.hbmColor = NULL
+E1219 22:37:31.478421 22636 audiorecognize.cpp:312] 删除文件F:\My Document\workspace\Visual Studio 2015\GetOpenFileNameTest\GetOpenFileNameTest./config\record\vi1482158247.wav失败
+E1219 22:37:31.480422 20828 hdcmap.cpp:77] 异常：getCurrentCursorBitmap GetIconInfo iconinfo.hbmColor = NULL
+E1219 22:37:36.788409 22636 audiorecognize.cpp:105] getUsrGMM
+E1219 22:37:36.788409 22636 audiorecognize.cpp:135] 建模失败！
+E1219 22:37:39.875504 22760 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:37:40.977399 22636 audiorecognize.cpp:105] getUsrGMM
+E1219 22:37:40.977910 22636 audiorecognize.cpp:135] 建模失败！
+E1219 22:37:41.470842 22760 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:37:43.055601 22760 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:37:44.639246 22760 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:37:46.226096 22760 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:37:47.817543 22760 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:37:48.413820 22636 audiorecognize.cpp:105] getUsrGMM
+E1219 22:37:50.435873 22760 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:37:51.321640 22636 audiorecognize.cpp:105] getUsrGMM
+E1219 22:37:51.322141 22636 audiorecognize.cpp:135] 建模失败！
+E1219 22:37:52.018461 22760 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:37:53.602705 22760 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:38:03.398954 22636 audiorecognize.cpp:90] 异常：声纹提取文件不存在！

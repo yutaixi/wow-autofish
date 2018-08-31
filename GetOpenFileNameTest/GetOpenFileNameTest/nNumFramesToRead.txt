@@ -1,0 +1,3 @@
+nNumFramesToRead= 480 
+ hnsDefaultDevicePeriod= 100000
+  

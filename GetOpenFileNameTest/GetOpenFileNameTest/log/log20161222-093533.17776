@@ -1,0 +1,25 @@
+Log file created at: 2016/12/22 09:35:33
+Running on machine: ARTHUR-PC
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E1222 09:35:33.840631 13664 audiorecognize.cpp:90] 异常：声纹提取文件不存在！
+E1222 09:35:37.857301 13664 audiorecognize.cpp:105] getUsrGMM
+E1222 09:35:37.857301 13664 audiorecognize.cpp:135] 建模失败！
+E1222 09:35:38.733008 13664 audiorecognize.cpp:105] getUsrGMM
+E1222 09:35:38.733508 13664 audiorecognize.cpp:135] 建模失败！
+E1222 09:35:42.202755 13664 audiorecognize.cpp:105] getUsrGMM
+E1222 09:35:42.207757 13664 audiorecognize.cpp:135] 建模失败！
+E1222 09:35:43.254011 13664 audiorecognize.cpp:105] getUsrGMM
+E1222 09:35:43.254510 13664 audiorecognize.cpp:135] 建模失败！
+E1222 09:35:44.136673 13664 audiorecognize.cpp:105] getUsrGMM
+E1222 09:35:44.137171 13664 audiorecognize.cpp:135] 建模失败！
+E1222 09:35:45.028774 13664 audiorecognize.cpp:105] getUsrGMM
+E1222 09:35:45.028774 13664 audiorecognize.cpp:135] 建模失败！
+E1222 09:35:47.678643 13664 audiorecognize.cpp:105] getUsrGMM
+E1222 09:35:47.679142 13664 audiorecognize.cpp:135] 建模失败！
+E1222 09:35:48.855659 13664 audiorecognize.cpp:105] getUsrGMM
+E1222 09:35:51.745256 13664 audiorecognize.cpp:105] getUsrGMM
+E1222 09:35:51.745757 13664 audiorecognize.cpp:135] 建模失败！
+E1222 09:36:01.567179 13664 audiorecognize.cpp:90] 异常：声纹提取文件不存在！
+E1222 09:36:03.425973 13664 audiorecognize.cpp:105] getUsrGMM
+E1222 09:36:03.426473 13664 audiorecognize.cpp:135] 建模失败！
+E1222 09:36:04.793951 13664 audiorecognize.cpp:105] getUsrGMM

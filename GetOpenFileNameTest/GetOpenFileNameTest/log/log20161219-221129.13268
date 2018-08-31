@@ -1,0 +1,19 @@
+Log file created at: 2016/12/19 22:11:29
+Running on machine: ARTHUR-PC
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E1219 22:11:29.771333  5008 audiorecognize.cpp:90] 异常：声纹提取文件不存在！
+E1219 22:11:33.929677  5008 audiorecognize.cpp:105] getUsrGMM
+E1219 22:11:33.930182  5008 audiorecognize.cpp:135] 建模失败！
+E1219 22:11:34.819062  5008 audiorecognize.cpp:105] getUsrGMM
+E1219 22:11:34.819062  5008 audiorecognize.cpp:135] 建模失败！
+E1219 22:11:35.705123  5008 audiorecognize.cpp:105] getUsrGMM
+E1219 22:11:35.709125  5008 audiorecognize.cpp:135] 建模失败！
+E1219 22:11:36.582087  5008 audiorecognize.cpp:312] 删除文件F:\My Document\workspace\Visual Studio 2015\GetOpenFileNameTest\GetOpenFileNameTest./config\record\vi1482156695.wav失败
+E1219 22:11:49.507452  5008 audiorecognize.cpp:105] getUsrGMM
+E1219 22:11:49.507452  5008 audiorecognize.cpp:135] 建模失败！
+E1219 22:11:53.382809  5008 audiorecognize.cpp:105] getUsrGMM
+E1219 22:11:53.383309  5008 audiorecognize.cpp:135] 建模失败！
+E1219 22:11:54.266024  5008 audiorecognize.cpp:105] getUsrGMM
+E1219 22:11:54.266525  5008 audiorecognize.cpp:135] 建模失败！
+E1219 22:11:55.143997  5008 audiorecognize.cpp:105] getUsrGMM
+E1219 22:11:55.144497  5008 audiorecognize.cpp:135] 建模失败！

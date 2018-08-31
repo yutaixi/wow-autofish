@@ -1,0 +1,28 @@
+Log file created at: 2016/12/24 00:19:29
+Running on machine: ARTHUR-PC
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E1224 00:19:29.609671   356 AudioRecognize.cpp:93] 异常：声纹提取文件不存在！
+E1224 00:20:40.010373   356 AudioRecognize.cpp:93] 异常：声纹提取文件不存在！
+E1224 00:20:47.301709   356 AudioRecognize.cpp:108] getUsrGMM
+E1224 00:20:47.302197   356 AudioRecognize.cpp:138] 建模失败！
+E1224 00:20:52.814378   356 AudioRecognize.cpp:108] getUsrGMM
+E1224 00:20:52.814378   356 AudioRecognize.cpp:138] 建模失败！
+E1224 00:20:57.818298   356 AudioRecognize.cpp:108] getUsrGMM
+E1224 00:20:57.818298   356 AudioRecognize.cpp:138] 建模失败！
+E1224 00:21:09.207420   356 AudioRecognize.cpp:108] getUsrGMM
+E1224 00:21:09.208411   356 AudioRecognize.cpp:138] 建模失败！
+E1224 00:21:13.502215   356 AudioRecognize.cpp:108] getUsrGMM
+E1224 00:21:13.503716   356 AudioRecognize.cpp:138] 建模失败！
+E1224 00:21:18.664242   356 AudioRecognize.cpp:108] getUsrGMM
+E1224 00:21:18.664242   356 AudioRecognize.cpp:138] 建模失败！
+E1224 00:21:23.074548   356 AudioRecognize.cpp:108] getUsrGMM
+E1224 00:21:23.075047   356 AudioRecognize.cpp:138] 建模失败！
+E1224 00:21:31.297478   356 AudioRecognize.cpp:108] getUsrGMM
+E1224 00:21:31.297986   356 AudioRecognize.cpp:138] 建模失败！
+E1224 00:21:36.482439   356 AudioRecognize.cpp:108] getUsrGMM
+E1224 00:21:36.482439   356 AudioRecognize.cpp:138] 建模失败！
+E1224 00:21:42.503940   356 AudioRecognize.cpp:108] getUsrGMM
+E1224 00:21:42.504451   356 AudioRecognize.cpp:138] 建模失败！
+E1224 00:21:49.571789   356 AudioRecognize.cpp:108] getUsrGMM
+E1224 00:21:49.572288   356 AudioRecognize.cpp:138] 建模失败！
+E1224 00:21:52.398113   356 AudioRecognize.cpp:315] 删除文件F:\My Document\workspace\Visual Studio 2015\GetOpenFileNameTest\GetOpenFileNameTest./config\record\vi1482510109.wav失败

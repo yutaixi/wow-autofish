@@ -1,0 +1,9 @@
+Log file created at: 2016/12/19 18:19:08
+Running on machine: ARTHUR-PC
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E1219 18:19:08.935308 24304 audiorecognize.cpp:90] 异常：声纹提取文件不存在！
+E1219 18:19:13.090071 24304 audiorecognize.cpp:105] getUsrGMM
+E1219 18:19:13.090555 24304 audiorecognize.cpp:135] 建模失败！
+E1219 18:19:23.061729 24304 audiorecognize.cpp:105] getUsrGMM
+E1219 18:19:25.954036 24304 audiorecognize.cpp:105] getUsrGMM
+E1219 18:19:25.954036 24304 audiorecognize.cpp:135] 建模失败！

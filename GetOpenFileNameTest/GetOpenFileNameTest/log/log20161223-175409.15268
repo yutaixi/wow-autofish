@@ -1,0 +1,46 @@
+Log file created at: 2016/12/23 17:54:09
+Running on machine: ARTHUR-PC
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E1223 17:54:09.637322 12716 audiorecognize.cpp:93] 异常：声纹提取文件不存在！
+E1223 17:54:15.249860 12716 audiorecognize.cpp:108] getUsrGMM
+E1223 17:54:15.249860 12716 audiorecognize.cpp:138] 建模失败！
+E1223 17:54:28.235404 12716 audiorecognize.cpp:93] 异常：声纹提取文件不存在！
+E1223 17:54:31.938905 12716 audiorecognize.cpp:108] getUsrGMM
+E1223 17:54:31.938905 12716 audiorecognize.cpp:138] 建模失败！
+E1223 17:54:38.162035 12716 audiorecognize.cpp:108] getUsrGMM
+E1223 17:54:38.162539 12716 audiorecognize.cpp:138] 建模失败！
+E1223 17:54:49.318979 12716 audiorecognize.cpp:108] getUsrGMM
+E1223 17:54:59.733759 12716 audiorecognize.cpp:93] 异常：声纹提取文件不存在！
+E1223 17:55:47.308785 12716 audiorecognize.cpp:93] 异常：声纹提取文件不存在！
+E1223 17:55:51.424734 12716 audiorecognize.cpp:108] getUsrGMM
+E1223 17:55:51.424734 12716 audiorecognize.cpp:138] 建模失败！
+E1223 17:56:01.738255 12716 audiorecognize.cpp:108] getUsrGMM
+E1223 17:56:01.738755 12716 audiorecognize.cpp:138] 建模失败！
+E1223 17:56:02.629137 12716 audiorecognize.cpp:108] getUsrGMM
+E1223 17:56:05.504292 12716 audiorecognize.cpp:108] getUsrGMM
+E1223 17:56:05.504292 12716 audiorecognize.cpp:138] 建模失败！
+E1223 17:56:12.029815 12716 audiorecognize.cpp:108] getUsrGMM
+E1223 17:56:12.029815 12716 audiorecognize.cpp:138] 建模失败！
+E1223 17:56:12.942246 12716 audiorecognize.cpp:108] getUsrGMM
+E1223 17:56:15.840137 12716 audiorecognize.cpp:108] getUsrGMM
+E1223 17:56:15.840137 12716 audiorecognize.cpp:138] 建模失败！
+E1223 17:56:21.359365 12716 audiorecognize.cpp:108] getUsrGMM
+E1223 17:56:21.359365 12716 audiorecognize.cpp:138] 建模失败！
+E1223 17:56:22.261201 12716 audiorecognize.cpp:108] getUsrGMM
+E1223 17:56:25.141280 12716 audiorecognize.cpp:108] getUsrGMM
+E1223 17:56:25.141280 12716 audiorecognize.cpp:138] 建模失败！
+E1223 17:56:31.586513 12716 audiorecognize.cpp:108] getUsrGMM
+E1223 17:56:31.586513 12716 audiorecognize.cpp:138] 建模失败！
+E1223 17:56:32.482091 12716 audiorecognize.cpp:108] getUsrGMM
+E1223 17:56:35.358512 12716 audiorecognize.cpp:108] getUsrGMM
+E1223 17:56:35.359015 12716 audiorecognize.cpp:138] 建模失败！
+E1223 17:56:45.935298 12716 audiorecognize.cpp:108] getUsrGMM
+E1223 17:56:45.935798 12716 audiorecognize.cpp:138] 建模失败！
+E1223 17:56:46.843966 12716 audiorecognize.cpp:108] getUsrGMM
+E1223 17:56:49.733784 12716 audiorecognize.cpp:108] getUsrGMM
+E1223 17:56:49.734284 12716 audiorecognize.cpp:138] 建模失败！
+E1223 17:57:01.114550 12716 audiorecognize.cpp:108] getUsrGMM
+E1223 17:57:01.115051 12716 audiorecognize.cpp:138] 建模失败！
+E1223 17:57:02.014144 12716 audiorecognize.cpp:108] getUsrGMM
+E1223 17:57:04.900048 12716 audiorecognize.cpp:108] getUsrGMM
+E1223 17:57:04.900048 12716 audiorecognize.cpp:138] 建模失败！

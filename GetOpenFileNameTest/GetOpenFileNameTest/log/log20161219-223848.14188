@@ -1,0 +1,35 @@
+Log file created at: 2016/12/19 22:38:48
+Running on machine: ARTHUR-PC
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E1219 22:38:48.572026 19024 audiorecognize.cpp:90] 异常：声纹提取文件不存在！
+E1219 22:38:52.725147 19024 audiorecognize.cpp:105] getUsrGMM
+E1219 22:38:52.725646 19024 audiorecognize.cpp:135] 建模失败！
+E1219 22:39:07.383011 19024 audiorecognize.cpp:90] 异常：声纹提取文件不存在！
+E1219 22:39:11.463706 19024 audiorecognize.cpp:105] getUsrGMM
+E1219 22:39:11.464205 19024 audiorecognize.cpp:135] 建模失败！
+E1219 22:39:24.806196 19024 audiorecognize.cpp:105] getUsrGMM
+E1219 22:39:24.807695 19024 audiorecognize.cpp:135] 建模失败！
+E1219 22:39:25.692330 19024 audiorecognize.cpp:105] getUsrGMM
+E1219 22:39:25.692831 19024 audiorecognize.cpp:135] 建模失败！
+E1219 22:39:34.238292 19024 audiorecognize.cpp:105] getUsrGMM
+E1219 22:39:34.238793 19024 audiorecognize.cpp:135] 建模失败！
+E1219 22:39:35.119802 19024 audiorecognize.cpp:105] getUsrGMM
+E1219 22:39:35.119802 19024 audiorecognize.cpp:135] 建模失败！
+E1219 22:39:36.001132 19024 audiorecognize.cpp:105] getUsrGMM
+E1219 22:39:36.001616 19024 audiorecognize.cpp:135] 建模失败！
+E1219 22:39:36.932309 19024 audiorecognize.cpp:105] getUsrGMM
+E1219 22:39:36.932309 19024 audiorecognize.cpp:135] 建模失败！
+E1219 22:39:37.869709 19024 audiorecognize.cpp:105] getUsrGMM
+E1219 22:39:40.769167 19024 audiorecognize.cpp:105] getUsrGMM
+E1219 22:39:40.770166 19024 audiorecognize.cpp:135] 建模失败！
+E1219 22:39:41.890543 19024 audiorecognize.cpp:105] getUsrGMM
+E1219 22:39:41.890543 19024 audiorecognize.cpp:135] 建模失败！
+E1219 22:40:16.904985 19024 audiorecognize.cpp:90] 异常：声纹提取文件不存在！
+E1219 22:40:21.050022 19024 audiorecognize.cpp:105] getUsrGMM
+E1219 22:40:21.050523 19024 audiorecognize.cpp:135] 建模失败！
+E1219 22:40:33.022802 19024 audiorecognize.cpp:105] getUsrGMM
+E1219 22:40:33.023303 19024 audiorecognize.cpp:135] 建模失败！
+E1219 22:40:33.938894 19024 audiorecognize.cpp:105] getUsrGMM
+E1219 22:40:36.827674 19024 audiorecognize.cpp:105] getUsrGMM
+E1219 22:40:36.827674 19024 audiorecognize.cpp:135] 建模失败！
+E1219 22:40:51.731205 19024 audiorecognize.cpp:105] getUsrGMM

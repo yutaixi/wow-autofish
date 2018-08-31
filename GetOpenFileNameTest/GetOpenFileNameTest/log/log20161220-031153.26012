@@ -1,0 +1,7 @@
+Log file created at: 2016/12/20 03:11:53
+Running on machine: ARTHUR-PC
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E1220 03:11:53.519668 24976 audiorecognize.cpp:90] 异常：声纹提取文件不存在！
+E1220 03:11:57.656422 24976 audiorecognize.cpp:105] getUsrGMM
+E1220 03:11:57.656422 24976 audiorecognize.cpp:135] 建模失败！
+E1220 03:12:00.170352 24976 audiorecognize.cpp:312] 删除文件F:\My Document\workspace\Visual Studio 2015\GetOpenFileNameTest\GetOpenFileNameTest./config\record\vi1482174717.wav失败

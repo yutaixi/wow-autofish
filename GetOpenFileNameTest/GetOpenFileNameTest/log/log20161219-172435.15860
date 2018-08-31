@@ -1,0 +1,68 @@
+Log file created at: 2016/12/19 17:24:35
+Running on machine: ARTHUR-PC
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E1219 17:24:35.662749 17768 AudioRecognize.cpp:90] 异常：声纹提取文件不存在！
+E1219 17:24:39.756350 17768 AudioRecognize.cpp:105] getUsrGMM
+E1219 17:24:39.756850 17768 AudioRecognize.cpp:135] 建模失败！
+E1219 17:24:48.465477 17768 AudioRecognize.cpp:90] 异常：声纹提取文件不存在！
+E1219 17:24:49.815162 17768 AudioRecognize.cpp:105] getUsrGMM
+E1219 17:24:52.873949 17768 AudioRecognize.cpp:105] getUsrGMM
+E1219 17:24:52.875450 17768 AudioRecognize.cpp:135] 建模失败！
+E1219 17:24:53.690436 17768 AudioRecognize.cpp:105] getUsrGMM
+E1219 17:24:53.690937 17768 AudioRecognize.cpp:135] 建模失败！
+E1219 17:31:58.314664 17768 AudioRecognize.cpp:90] 异常：声纹提取文件不存在！
+E1219 17:32:02.405800 20176 hdcMap.cpp:77] 异常：getCurrentCursorBitmap GetIconInfo iconinfo.hbmColor = NULL
+E1219 17:32:02.457340 20176 hdcMap.cpp:77] 异常：getCurrentCursorBitmap GetIconInfo iconinfo.hbmColor = NULL
+E1219 17:32:02.507894 20176 hdcMap.cpp:77] 异常：getCurrentCursorBitmap GetIconInfo iconinfo.hbmColor = NULL
+E1219 17:32:02.558909 20176 hdcMap.cpp:77] 异常：getCurrentCursorBitmap GetIconInfo iconinfo.hbmColor = NULL
+E1219 17:32:02.608944 20176 hdcMap.cpp:77] 异常：getCurrentCursorBitmap GetIconInfo iconinfo.hbmColor = NULL
+E1219 17:32:02.660043 20176 hdcMap.cpp:77] 异常：getCurrentCursorBitmap GetIconInfo iconinfo.hbmColor = NULL
+E1219 17:32:02.710189 20176 hdcMap.cpp:77] 异常：getCurrentCursorBitmap GetIconInfo iconinfo.hbmColor = NULL
+E1219 17:32:02.760705 20176 hdcMap.cpp:77] 异常：getCurrentCursorBitmap GetIconInfo iconinfo.hbmColor = NULL
+E1219 17:32:02.811241 20176 hdcMap.cpp:77] 异常：getCurrentCursorBitmap GetIconInfo iconinfo.hbmColor = NULL
+E1219 17:32:02.861279 20176 hdcMap.cpp:77] 异常：getCurrentCursorBitmap GetIconInfo iconinfo.hbmColor = NULL
+E1219 17:32:02.911312 20176 hdcMap.cpp:77] 异常：getCurrentCursorBitmap GetIconInfo iconinfo.hbmColor = NULL
+E1219 17:32:02.961848 20176 hdcMap.cpp:77] 异常：getCurrentCursorBitmap GetIconInfo iconinfo.hbmColor = NULL
+E1219 17:32:03.012383 20176 hdcMap.cpp:77] 异常：getCurrentCursorBitmap GetIconInfo iconinfo.hbmColor = NULL
+E1219 17:32:03.062919 20176 hdcMap.cpp:77] 异常：getCurrentCursorBitmap GetIconInfo iconinfo.hbmColor = NULL
+E1219 17:32:03.113458 20176 hdcMap.cpp:77] 异常：getCurrentCursorBitmap GetIconInfo iconinfo.hbmColor = NULL
+E1219 17:32:03.163152 20176 hdcMap.cpp:77] 异常：getCurrentCursorBitmap GetIconInfo iconinfo.hbmColor = NULL
+E1219 17:32:03.214187 20176 hdcMap.cpp:77] 异常：getCurrentCursorBitmap GetIconInfo iconinfo.hbmColor = NULL
+E1219 17:32:03.264236 20176 hdcMap.cpp:77] 异常：getCurrentCursorBitmap GetIconInfo iconinfo.hbmColor = NULL
+E1219 17:32:03.314761 20176 hdcMap.cpp:77] 异常：getCurrentCursorBitmap GetIconInfo iconinfo.hbmColor = NULL
+E1219 17:32:03.364893 20176 hdcMap.cpp:77] 异常：getCurrentCursorBitmap GetIconInfo iconinfo.hbmColor = NULL
+E1219 17:32:03.416934 20176 hdcMap.cpp:77] 异常：getCurrentCursorBitmap GetIconInfo iconinfo.hbmColor = NULL
+E1219 17:32:03.468956 20176 hdcMap.cpp:77] 异常：getCurrentCursorBitmap GetIconInfo iconinfo.hbmColor = NULL
+E1219 17:32:03.519999 20176 hdcMap.cpp:77] 异常：getCurrentCursorBitmap GetIconInfo iconinfo.hbmColor = NULL
+E1219 17:32:03.571526 20176 hdcMap.cpp:77] 异常：getCurrentCursorBitmap GetIconInfo iconinfo.hbmColor = NULL
+E1219 17:32:03.622562 20176 hdcMap.cpp:77] 异常：getCurrentCursorBitmap GetIconInfo iconinfo.hbmColor = NULL
+E1219 17:32:03.673099 20176 hdcMap.cpp:77] 异常：getCurrentCursorBitmap GetIconInfo iconinfo.hbmColor = NULL
+E1219 17:32:03.723150 20176 hdcMap.cpp:77] 异常：getCurrentCursorBitmap GetIconInfo iconinfo.hbmColor = NULL
+E1219 17:32:03.773169 20176 hdcMap.cpp:77] 异常：getCurrentCursorBitmap GetIconInfo iconinfo.hbmColor = NULL
+E1219 17:32:03.823696 20176 hdcMap.cpp:77] 异常：getCurrentCursorBitmap GetIconInfo iconinfo.hbmColor = NULL
+E1219 17:32:03.874733 20176 hdcMap.cpp:77] 异常：getCurrentCursorBitmap GetIconInfo iconinfo.hbmColor = NULL
+E1219 17:32:03.925268 20176 hdcMap.cpp:77] 异常：getCurrentCursorBitmap GetIconInfo iconinfo.hbmColor = NULL
+E1219 17:32:03.975303 20176 hdcMap.cpp:77] 异常：getCurrentCursorBitmap GetIconInfo iconinfo.hbmColor = NULL
+E1219 17:32:04.025840 20176 hdcMap.cpp:77] 异常：getCurrentCursorBitmap GetIconInfo iconinfo.hbmColor = NULL
+E1219 17:32:04.076376 20176 hdcMap.cpp:77] 异常：getCurrentCursorBitmap GetIconInfo iconinfo.hbmColor = NULL
+E1219 17:32:04.126912 20176 hdcMap.cpp:77] 异常：getCurrentCursorBitmap GetIconInfo iconinfo.hbmColor = NULL
+E1219 17:32:04.176949 20176 hdcMap.cpp:77] 异常：getCurrentCursorBitmap GetIconInfo iconinfo.hbmColor = NULL
+E1219 17:32:04.227375 20176 hdcMap.cpp:77] 异常：getCurrentCursorBitmap GetIconInfo iconinfo.hbmColor = NULL
+E1219 17:32:04.278014 20176 hdcMap.cpp:77] 异常：getCurrentCursorBitmap GetIconInfo iconinfo.hbmColor = NULL
+E1219 17:32:04.328049 20176 hdcMap.cpp:77] 异常：getCurrentCursorBitmap GetIconInfo iconinfo.hbmColor = NULL
+E1219 17:32:04.379086 20176 hdcMap.cpp:77] 异常：getCurrentCursorBitmap GetIconInfo iconinfo.hbmColor = NULL
+E1219 17:32:04.429622 20176 hdcMap.cpp:77] 异常：getCurrentCursorBitmap GetIconInfo iconinfo.hbmColor = NULL
+E1219 17:32:04.481156 20176 hdcMap.cpp:77] 异常：getCurrentCursorBitmap GetIconInfo iconinfo.hbmColor = NULL
+E1219 17:32:04.532205 20176 hdcMap.cpp:77] 异常：getCurrentCursorBitmap GetIconInfo iconinfo.hbmColor = NULL
+E1219 17:32:04.582283 20176 hdcMap.cpp:77] 异常：getCurrentCursorBitmap GetIconInfo iconinfo.hbmColor = NULL
+E1219 17:32:04.632304 20176 hdcMap.cpp:77] 异常：getCurrentCursorBitmap GetIconInfo iconinfo.hbmColor = NULL
+E1219 17:32:04.682343 20176 hdcMap.cpp:77] 异常：getCurrentCursorBitmap GetIconInfo iconinfo.hbmColor = NULL
+E1219 17:32:04.733379 20176 hdcMap.cpp:77] 异常：getCurrentCursorBitmap GetIconInfo iconinfo.hbmColor = NULL
+E1219 17:32:04.784412 20176 hdcMap.cpp:77] 异常：getCurrentCursorBitmap GetIconInfo iconinfo.hbmColor = NULL
+E1219 17:32:04.834448 20176 hdcMap.cpp:77] 异常：getCurrentCursorBitmap GetIconInfo iconinfo.hbmColor = NULL
+E1219 17:32:04.885484 20176 hdcMap.cpp:77] 异常：getCurrentCursorBitmap GetIconInfo iconinfo.hbmColor = NULL
+E1219 17:32:04.936523 20176 hdcMap.cpp:77] 异常：getCurrentCursorBitmap GetIconInfo iconinfo.hbmColor = NULL
+E1219 17:32:04.986559 20176 hdcMap.cpp:77] 异常：getCurrentCursorBitmap GetIconInfo iconinfo.hbmColor = NULL
+E1219 17:34:03.108924 17768 AudioRecognize.cpp:90] 异常：声纹提取文件不存在！
+E1219 17:34:04.508605 17768 AudioRecognize.cpp:312] 删除文件F:\My Document\workspace\Visual Studio 2015\GetOpenFileNameTest\GetOpenFileNameTest./config\record\vi1482140043.wav失败
+E1219 17:35:52.622931 17768 AudioRecognize.cpp:105] getUsrGMM

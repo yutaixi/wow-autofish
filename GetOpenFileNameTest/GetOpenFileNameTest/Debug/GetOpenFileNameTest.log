@@ -1,0 +1,5 @@
+﻿  ThreadFunction.cpp
+f:\my document\workspace\visual studio 2015\getopenfilenametest\getopenfilenametest\glog\logging.h(1158): warning C4251: 'google::LogMessage::LogStream::streambuf_': class 'google::base_logging::LogStreamBuf' needs to have dll-interface to be used by clients of class 'google::LogMessage::LogStream'
+  f:\my document\workspace\visual studio 2015\getopenfilenametest\getopenfilenametest\glog\logging.h(1088): note: see declaration of 'google::base_logging::LogStreamBuf'
+  GetOpenFileNameTest.vcxproj -> F:\My Document\workspace\Visual Studio 2015\GetOpenFileNameTest\Debug\GetOpenFileNameTest.exe
+  GetOpenFileNameTest.vcxproj -> F:\My Document\workspace\Visual Studio 2015\GetOpenFileNameTest\Debug\GetOpenFileNameTest.pdb (Full PDB)

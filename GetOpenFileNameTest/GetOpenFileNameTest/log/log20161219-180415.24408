@@ -1,0 +1,17 @@
+Log file created at: 2016/12/19 18:04:15
+Running on machine: ARTHUR-PC
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E1219 18:04:15.571048 12796 audiorecognize.cpp:90] 异常：声纹提取文件不存在！
+E1219 18:04:19.570962 12796 audiorecognize.cpp:105] getUsrGMM
+E1219 18:04:19.571462 12796 audiorecognize.cpp:135] 建模失败！
+E1219 18:04:30.910245 12796 audiorecognize.cpp:105] getUsrGMM
+E1219 18:04:30.910245 12796 audiorecognize.cpp:135] 建模失败！
+E1219 18:04:31.470118 12796 audiorecognize.cpp:312] 删除文件F:\My Document\workspace\Visual Studio 2015\GetOpenFileNameTest\GetOpenFileNameTest./config\record\vi1482141870.wav失败
+E1219 18:04:42.528400 12796 audiorecognize.cpp:105] getUsrGMM
+E1219 18:04:42.528400 12796 audiorecognize.cpp:135] 建模失败！
+E1219 18:05:42.076424 12796 audiorecognize.cpp:90] 异常：声纹提取文件不存在！
+E1219 18:05:46.221190 12796 audiorecognize.cpp:105] getUsrGMM
+E1219 18:05:46.221190 12796 audiorecognize.cpp:135] 建模失败！
+E1219 18:05:50.919010 12796 audiorecognize.cpp:105] getUsrGMM
+E1219 18:05:50.919010 12796 audiorecognize.cpp:135] 建模失败！
+E1219 18:06:16.927466 12796 audiorecognize.cpp:90] 异常：声纹提取文件不存在！

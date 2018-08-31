@@ -1,0 +1,53 @@
+Log file created at: 2016/12/19 22:19:22
+Running on machine: ARTHUR-PC
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E1219 22:19:22.917541 23152 audiorecognize.cpp:90] 异常：声纹提取文件不存在！
+E1219 22:19:23.835991 23152 audiorecognize.cpp:105] getUsrGMM
+E1219 22:19:24.756144 23152 audiorecognize.cpp:105] getUsrGMM
+E1219 22:19:25.697248 23152 audiorecognize.cpp:105] getUsrGMM
+E1219 22:19:26.032985 14588 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:19:26.640414 23152 audiorecognize.cpp:105] getUsrGMM
+E1219 22:19:27.571575 23152 audiorecognize.cpp:105] getUsrGMM
+E1219 22:19:27.660137 14588 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:19:28.524271 23152 audiorecognize.cpp:105] getUsrGMM
+E1219 22:19:29.289036 14588 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:19:29.425633 23152 audiorecognize.cpp:105] getUsrGMM
+E1219 22:19:29.426133 23152 audiorecognize.cpp:135] 建模失败！
+E1219 22:19:30.339802 23152 audiorecognize.cpp:105] getUsrGMM
+E1219 22:19:30.340301 23152 audiorecognize.cpp:135] 建模失败！
+E1219 22:19:30.899698 14588 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:19:31.254951 23152 audiorecognize.cpp:105] getUsrGMM
+E1219 22:19:31.254951 23152 audiorecognize.cpp:135] 建模失败！
+E1219 22:19:32.158089 23152 audiorecognize.cpp:105] getUsrGMM
+E1219 22:19:32.158089 23152 audiorecognize.cpp:135] 建模失败！
+E1219 22:19:32.516846 14588 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:19:33.096254 23152 audiorecognize.cpp:105] getUsrGMM
+E1219 22:19:35.126055 14588 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:19:36.057720 23152 audiorecognize.cpp:105] getUsrGMM
+E1219 22:19:36.059718 23152 audiorecognize.cpp:135] 建模失败！
+E1219 22:19:36.777225 14588 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:19:37.003391 23152 audiorecognize.cpp:105] getUsrGMM
+E1219 22:19:37.953565 23152 audiorecognize.cpp:105] getUsrGMM
+E1219 22:19:38.430902 14588 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:19:38.912739 23152 audiorecognize.cpp:105] getUsrGMM
+E1219 22:19:39.867447 23152 audiorecognize.cpp:105] getUsrGMM
+E1219 22:19:40.079601 14588 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:19:40.807113 23152 audiorecognize.cpp:105] getUsrGMM
+E1219 22:19:41.783303 23152 audiorecognize.cpp:105] getUsrGMM
+E1219 22:19:41.825834 14588 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:19:42.778007 23152 audiorecognize.cpp:105] getUsrGMM
+E1219 22:19:43.478006 14588 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:19:43.758203 23152 audiorecognize.cpp:105] getUsrGMM
+E1219 22:19:44.715380 23152 audiorecognize.cpp:105] getUsrGMM
+E1219 22:19:45.114663 14588 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:19:45.663552 23152 audiorecognize.cpp:105] getUsrGMM
+E1219 22:19:46.623234 23152 audiorecognize.cpp:105] getUsrGMM
+E1219 22:19:46.761831 14588 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:19:47.578495 23152 audiorecognize.cpp:105] getUsrGMM
+E1219 22:19:48.409588 14588 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:19:48.564694 23152 audiorecognize.cpp:105] getUsrGMM
+E1219 22:19:49.556401 23152 audiorecognize.cpp:105] getUsrGMM
+E1219 22:19:50.043745 14588 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:19:50.527586 23152 audiorecognize.cpp:105] getUsrGMM
+E1219 22:19:51.660444 14588 imgex.cpp:587]  异常：checkScreenFishStatus 异常 
+E1219 22:19:53.254073 14588 imgex.cpp:587]  异常：checkScreenFishStatus 异常 

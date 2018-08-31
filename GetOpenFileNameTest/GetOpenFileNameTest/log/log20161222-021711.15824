@@ -1,0 +1,4 @@
+Log file created at: 2016/12/22 02:17:11
+Running on machine: ARTHUR-PC
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E1222 02:17:11.874079 17144 cinitsock.cpp:263]  Failed connect to wwv.nist.gov

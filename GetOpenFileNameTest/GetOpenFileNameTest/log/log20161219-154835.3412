@@ -1,0 +1,97 @@
+Log file created at: 2016/12/19 15:48:35
+Running on machine: ARTHUR-PC
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E1219 15:48:35.481164  7124 AudioRecognize.cpp:90] 异常：声纹提取文件不存在！
+E1219 15:48:38.262759  7124 AudioRecognize.cpp:105] getUsrGMM
+E1219 15:48:38.263259  7124 AudioRecognize.cpp:135] 建模失败！
+E1219 15:48:39.071965  7124 AudioRecognize.cpp:105] getUsrGMM
+E1219 15:48:39.072479  7124 AudioRecognize.cpp:135] 建模失败！
+E1219 15:48:39.885731  7124 AudioRecognize.cpp:105] getUsrGMM
+E1219 15:48:39.889721  7124 AudioRecognize.cpp:135] 建模失败！
+E1219 15:48:40.821382  7124 AudioRecognize.cpp:105] getUsrGMM
+E1219 15:48:40.821883  7124 AudioRecognize.cpp:135] 建模失败！
+E1219 15:48:41.723425  7124 AudioRecognize.cpp:105] getUsrGMM
+E1219 15:48:41.723925  7124 AudioRecognize.cpp:135] 建模失败！
+E1219 15:48:42.723636  7124 AudioRecognize.cpp:105] getUsrGMM
+E1219 15:48:42.723636  7124 AudioRecognize.cpp:135] 建模失败！
+E1219 15:48:43.705801  7124 AudioRecognize.cpp:105] getUsrGMM
+E1219 15:48:43.706302  7124 AudioRecognize.cpp:135] 建模失败！
+E1219 15:48:44.702704  7124 AudioRecognize.cpp:105] getUsrGMM
+E1219 15:48:44.702704  7124 AudioRecognize.cpp:135] 建模失败！
+E1219 15:49:29.333547  7124 AudioRecognize.cpp:90] 异常：声纹提取文件不存在！
+E1219 15:49:33.405946  7124 AudioRecognize.cpp:105] getUsrGMM
+E1219 15:49:33.406447  7124 AudioRecognize.cpp:135] 建模失败！
+E1219 15:49:38.147017  7124 AudioRecognize.cpp:90] 异常：声纹提取文件不存在！
+E1219 15:49:41.347573 22636 PlaybackAudioCapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 15:49:41.358059 22636 PlaybackAudioCapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 15:49:41.367569 22636 PlaybackAudioCapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 15:49:41.378074 22636 PlaybackAudioCapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 15:49:41.388094 22636 PlaybackAudioCapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 15:49:41.397614 22636 PlaybackAudioCapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 15:49:41.407627 22636 PlaybackAudioCapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 15:49:41.417616 22636 PlaybackAudioCapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 15:49:41.427623 22636 PlaybackAudioCapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 15:49:41.437631 22636 PlaybackAudioCapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 15:49:41.449138 22636 PlaybackAudioCapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 15:49:41.527724 22636 PlaybackAudioCapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 15:49:41.537732 22636 PlaybackAudioCapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 15:49:41.548241 22636 PlaybackAudioCapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 15:49:41.558279 22636 PlaybackAudioCapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 15:49:41.568266 22636 PlaybackAudioCapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 15:49:41.577734 22636 PlaybackAudioCapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 15:49:41.588241 22636 PlaybackAudioCapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 15:49:41.598261 22636 PlaybackAudioCapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 15:49:41.608256 22636 PlaybackAudioCapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 15:49:41.617583 22636 PlaybackAudioCapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 15:49:41.627584 22636 PlaybackAudioCapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 15:49:41.637593 22636 PlaybackAudioCapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 15:49:41.647598 22636 PlaybackAudioCapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 15:49:41.658118 22636 PlaybackAudioCapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 15:49:41.668112 22636 PlaybackAudioCapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 15:49:41.678120 22636 PlaybackAudioCapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 15:49:41.687628 22636 PlaybackAudioCapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 15:49:41.697635 22636 PlaybackAudioCapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 15:49:41.707640 22636 PlaybackAudioCapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 15:49:41.717648 22636 PlaybackAudioCapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 15:49:41.727654 22636 PlaybackAudioCapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 15:49:41.738162 22636 PlaybackAudioCapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 15:49:41.748169 22636 PlaybackAudioCapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 15:49:41.757675 22636 PlaybackAudioCapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 15:49:41.767683 22636 PlaybackAudioCapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 15:49:41.777690 22636 PlaybackAudioCapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 15:49:41.787698 22636 PlaybackAudioCapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 15:49:41.797703 22636 PlaybackAudioCapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 15:49:41.808212 22636 PlaybackAudioCapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 15:49:41.817718 22636 PlaybackAudioCapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 15:49:41.827725 22636 PlaybackAudioCapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 15:49:41.837733 22636 PlaybackAudioCapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 15:49:41.847739 22636 PlaybackAudioCapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 15:49:41.858247 22636 PlaybackAudioCapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 15:49:41.869480 22636 PlaybackAudioCapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 15:49:41.877982 22636 PlaybackAudioCapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 15:49:41.888490 22636 PlaybackAudioCapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 15:49:41.897552 22636 PlaybackAudioCapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 15:49:41.908505 22636 PlaybackAudioCapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 15:49:41.918011 22636 PlaybackAudioCapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 15:49:41.928017 22636 PlaybackAudioCapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 15:49:41.937526 22636 PlaybackAudioCapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 15:49:41.948032 22636 PlaybackAudioCapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 15:49:41.957540 22636 PlaybackAudioCapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 15:49:41.968294 22636 PlaybackAudioCapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 15:49:41.978320 22636 PlaybackAudioCapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 15:49:41.988309 22636 PlaybackAudioCapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 15:49:41.997815 22636 PlaybackAudioCapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 15:49:42.008322 22636 PlaybackAudioCapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 15:49:42.017832 22636 PlaybackAudioCapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 15:49:42.027843 22636 PlaybackAudioCapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 15:49:42.038345 22636 PlaybackAudioCapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 15:49:42.048362 22636 PlaybackAudioCapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 15:49:42.058359 22636 PlaybackAudioCapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 15:49:42.067867 22636 PlaybackAudioCapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 15:49:42.077872 22636 PlaybackAudioCapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 15:49:42.088881 22636 PlaybackAudioCapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 15:49:42.098389 22636 PlaybackAudioCapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 15:49:42.107915 22636 PlaybackAudioCapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 15:49:42.117915 22636 PlaybackAudioCapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 15:49:42.128423 22636 PlaybackAudioCapture.cpp:413] outputlenth != nNumFramesToRead * pwfx->nBlockAlign
+E1219 15:49:42.138064 22636 PlaybackAudioCapture.cpp:413] outputlenth

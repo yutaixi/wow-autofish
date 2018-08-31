@@ -1,0 +1,8 @@
+cbsize= 22 
+ 		nAvgBytesPerSec= 384000  
+ 		nBlockAlign= 8 
+ 		nChannels= 2 
+  		nSamplesPerSec= 48000 
+ 		wBitsPerSample= 32 
+ 		wFormatTag= 65534 
+

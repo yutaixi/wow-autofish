@@ -8,4 +8,4 @@ LicGenerator key生成器
 # 插件截图
 ![home page screenshot](https://raw.githubusercontent.com/yutaixi/wow-autofish/master/screenshot/home.png)
 # 声明
-未经允许不允许用于商业用途，因使用插件被封号概不负责
+未经允许禁止用于商业用途，因使用插件被封号概不负责

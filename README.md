@@ -1,5 +1,5 @@
 # wow-autofish
-魔兽世界自动钓鱼插件
+魔兽世界自动钓鱼插件    
 # 项目结构
 GetOpenFileNameTest 插件主项目代码（知道你想吐槽项目名字。。。我接受囧！）
 LicGenerator key生成器
